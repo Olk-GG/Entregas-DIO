@@ -1,4 +1,4 @@
-Abaixo estão imagens da página web. Realizada de acordo com as instruções do desafio.
+Abaixo estão imagens da página web. Realizada de acordo com as instruções do desafio. </br>
 Pagina inicial:
 <img src="assets/pagina final/Home.png" alt="Página inicial">
 Página de sobre a empresa:
